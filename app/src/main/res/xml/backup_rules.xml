@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <exclude domain="sharedpref" path="ConnectedInteractivePrefsFile_com.connectedinteractive.connectedshowcase"/>
+    <exclude domain="sharedpref" path="ConnectedInteractivePrefsFile_com.connectedinteractive.connectedshowcase.xml"/>
+
+    <exclude domain="sharedpref" path="ConnectedInteractivePrefsFile_com.connectedinteractive.connectedshowcase.instrumentation_test"/>
+    <exclude domain="sharedpref" path="ConnectedInteractivePrefsFile_com.connectedinteractive.connectedshowcase.instrumentation_test.xml"/>
+</full-backup-content>

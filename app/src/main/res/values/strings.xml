@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">connectedshowcase</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_open_secondary_activity">Open Other Activity</string>
+    <string name="save_custom_preferences">Save Custom Preference</string>
+    <string name="load_custom_preferences">Load Custom Preference</string>
+    <string name="action_push_notifications">Push Notifications</string>
+    <string name="action_test_location">Test Location</string>
+    <string name="action_track_multiple_events">Track Multiple Events</string>
+    <string name="title_activity_deep_link">Connected Deep Link Activity</string>
+    <string name="congrats_deep_link_message">Congrats! You\'ve opened a deep link!</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="title_activity_other_test">OtherActivityTest</string>
+    <string name="title_activity_example">ExampleActivity</string>
+    <string name="title_activity_api_test">ApiTestActivity</string>
+    <string name="enable_sdk_button_str">Enable</string>
+    <string name="disable_sdk_button_str">Disable SDK</string>
+</resources>
